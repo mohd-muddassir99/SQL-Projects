@@ -1,6 +1,6 @@
 # 10 General Data Analysis Question
 
-## Introduction: 
+## Introduction📌: 
 This repository contains **SQL-based data analysis project** where I have written SQL queries to **create databases and tables, insert data, and analyze it using various SQL techniques**. Through these projects, I have explored data patterns, relationships, and trends using SQL queries, gaining valuable insights from structured data.
 
 
@@ -24,7 +24,7 @@ This repository contains **SQL-based data analysis project** where I have writte
 - **Improved Query Efficiency**: Understanding the impact of indexing and query structuring on performance.
 - **Real-World Use Cases**: Implementing SQL-based solutions for business analytics, sales performance, customer segmentation, and financial transactions.
   
-## View & Download (ipynb) Notebook File:
+## View & Download (MySQL) Notebook File:
 
 <p align="center">
     <a href="https://github.com/mohd-muddassir99/SQL-Projects/blob/d524230396a3dde1b3cd3be6e59c226889936648/10%20General%20Data%20Analysis%20Question/10%20questions%20by%20sir.sql">
