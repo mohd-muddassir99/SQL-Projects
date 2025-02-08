@@ -18,6 +18,7 @@ This repository contains SQL-based data analysis projects where I have written S
 - **Data Cleaning & Consistency**: Handling missing or duplicate data while maintaining data integrity.
 - **Complex Query Optimization**: Balancing performance while dealing with large datasets and multiple joins.
 - **Understanding Business Context**: Translating raw data into meaningful insights that drive decision-making.
+
 ## Key Insights 💡:
 - **Data-driven Decision Making**: Extracting valuable trends and KPIs using SQL queries.
 - **Improved Query Efficiency**: Understanding the impact of indexing and query structuring on performance.
