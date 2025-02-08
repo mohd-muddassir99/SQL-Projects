@@ -27,8 +27,8 @@ This repository contains **SQL-based data analysis project** where I have writte
 ## View & Download (ipynb) Notebook File:
 
 <p align="center">
-    <a href="https://github.com/mohd-muddassir99/Python-Data-Analysis-Projects/blob/68b9855a951d57f063330c7a04e9f7acee08a787/Exploratory%20Data%20Analysis%20of%20%20Diwali%20Sales/Exploratory%20data%20Analysis%20Project.ipynb">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="70px" height="90px" alt="Access Dataset"><br>
+    <a href="https://github.com/mohd-muddassir99/SQL-Projects/blob/d524230396a3dde1b3cd3be6e59c226889936648/10%20General%20Data%20Analysis%20Question/10%20questions%20by%20sir.sql">
+        <img src="https://miro.medium.com/v2/resize:fit:900/0*hM4PQP9yoePYv-RB.png" width="70px" height="90px" alt="Access Dataset"><br>
         View
     </a>
 </p> <br>
