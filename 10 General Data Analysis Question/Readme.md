@@ -1,7 +1,7 @@
 # 10 General Data Analysis Question
 
 ## Introduction: 
-This repository contains SQL-based data analysis projects where I have written SQL queries to create databases and tables, insert data, and analyze it using various SQL techniques. Through these projects, I have explored data patterns, relationships, and trends using SQL queries, gaining valuable insights from structured data.
+This repository contains **SQL-based data analysis project** where I have written SQL queries to **create databases and tables, insert data, and analyze it using various SQL techniques**. Through these projects, I have explored data patterns, relationships, and trends using SQL queries, gaining valuable insights from structured data.
 
 
 <div align="center">
