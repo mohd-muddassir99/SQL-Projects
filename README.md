@@ -24,7 +24,6 @@ Please find the links for the Project's. Simply click on the links to access eac
 💡 Let’s Connect!!
 If you have any suggestions or want to collaborate on SQL projects, feel free to reach out! 🚀
 
-Happy Querying! 😊🎯 
  --- 
  
 <div align="center">
