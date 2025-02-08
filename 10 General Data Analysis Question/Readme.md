@@ -8,11 +8,11 @@ This repository contains SQL-based data analysis projects where I have written S
     <img src="https://media.licdn.com/dms/image/D4E12AQGasm2RHShsnA/article-cover_image-shrink_600_2000/0/1681097763151?e=2147483647&v=beta&t=7ssrfeCrpKZ1QVMgEt19SHAhVS0QBbLovWxSp-nm5sU" width="500px" height="300px">
 </div> 
 
-## Methodologies Used 📊:
-- **Data Cleaning**: Handled missing values, removed duplicates, and converted data types for consistency.
-- **Exploratory Data Analysis (EDA)**: Used statistical methods and visualization tools to understand trends.
-- **Summary Statistics**: Analyzed key metrics such as total sales, average order value, and customer segmentation.
-- **Data Visualization**: Created bar charts, histograms, and scatter plots to reveal patterns in sales, customer demographics, and spending behavior.
+## Methodologies Used 🛠️:
+- **Database Creation & Management**: Designing schemas, defining relationships, and inserting sample data.
+- **Data Analysis Queries**: Using SQL Joins, Aggregate Functions, WHERE, GROUP BY, HAVING, and ORDER BY clauses.
+- **Pattern Recognition**: Identifying trends and insights through queries involving subqueries, CTEs, and window functions.
+- **Optimization Techniques**: Enhancing query performance through indexing, execution plans, and query restructuring.
 
 ## Potential Challenges🛠:
 - **Data Quality Issues**: Presence of missing values and inconsistencies required thorough preprocessing.
