@@ -15,14 +15,12 @@ Please find the links for the Project's. Simply click on the links to access eac
 - [Airbnb EDA Project](https://github.com/mohd-muddassir99/Python-Data-Analysis-Projects/tree/a26fda6a84fb61b85e4ad58ddb2d649890858659/Airbnb%20EDA%20Project)
 
 ## 🔍 What You’ll Find Here:  
-✔️ **Exploratory Data Analysis (EDA)**  
-✔️ **Data Visualization (Matplotlib, Seaborn, Plotly)**  
-✔️ **Data Wrangling (Pandas, NumPy)**  
-✔️ **Statistical Analysis & Hypothesis Testing**  
-✔️ **SQL & Python Integration**  
-✔️ **Machine Learning Models (Scikit-learn)**  
-
-
+****- ✅ SQL Queries & Scripts (Joins, CTEs, Window Functions, Optimization)**
+**- ✅ Database Design & Management (Indexes, Partitioning, Normalization)**
+**- ✅ Performance Tuning (Execution Plans, Query Optimization, Indexing)**
+**- ✅ Real-World Use Cases (Financial Transactions, E-commerce Sales, User Behavior Analysis)**
+**- ✅ Integrations with Power BI & Tableau for Data Visualization**
+**
 💡 I'm constantly learning and improving, so stay tuned for more exciting projects! Feel free to explore, fork, and contribute. Let's grow together in the world of **data science**! 🚀  
  
  --- 
