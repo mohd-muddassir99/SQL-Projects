@@ -21,9 +21,11 @@ This repository showcases **SQL-driven data cleaning and analysis** techniques a
 - **🔹 Data Structure Variability** – Adjusting transformations based on dataset-specific inconsistencies.
 
 ## Key Insights from SQL Data Cleaning & Analysis 💡:
-- **1️⃣ Data Accuracy & Integrity** - Ensuring unique records improves reliability in reporting and decision-making. Standardizing formats (e.g., date formats, text case, currency values) enhances consistency across datasets.
-- **Improved Query Efficiency**: Understanding the impact of indexing and query structuring on performance.
-- **Real-World Use Cases**: Implementing SQL-based solutions for business analytics, sales performance, customer segmentation, and financial transactions.
+- **1️⃣ Data Accuracy & Integrity**:- Ensuring unique records improves reliability in reporting and decision-making. Standardizing formats (e.g., date formats, text case, currency values) enhances consistency across datasets.
+- **2️⃣ Impact of Data Cleaning on Analysis**:- Removing duplicates and unnecessary columns reduces data redundancy and improves performance. Handling NULL values and missing data ensures that calculations (averages, sums, aggregations) are accurate.
+- **3️⃣ Performance Optimization & Query Efficiency**:- Using proper indexing and query optimization techniques enhances data retrieval speed. Applying WHERE, GROUP BY, HAVING, and ORDER BY clauses effectively ensures efficient filtering and aggregation.
+- **4️⃣ Data-Driven Insights for Decision-Making**:- Clean and structured data allows businesses to make informed and strategic decisions. Identifying trends and anomalies in customer behavior, sales, or financial transactions improves forecasting.
+- **5️⃣ Handling Large Datasets Efficiently**:- Partitioning tables and optimizing joins help maintain query performance on large datasets. Avoiding *unnecessary computations (SELECT ) and using specific column selection reduces processing time.
   
 ## View & Download (MySQL) File:
 
