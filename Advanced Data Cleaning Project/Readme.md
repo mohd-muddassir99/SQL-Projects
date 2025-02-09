@@ -19,8 +19,9 @@ This repository showcases **SQL-driven data cleaning and analysis** techniques a
 - **🔹 Handling Incomplete Data** – Ensuring missing values do not impact analysis accuracy.
 - **🔹 Maintaining Performance** – Query optimization for efficient data retrieval.
 - **🔹 Data Structure Variability** – Adjusting transformations based on dataset-specific inconsistencies.
-## Key Insights 💡:
-- **Data-driven Decision Making**: Extracting valuable trends and KPIs using SQL queries.
+
+## Key Insights from SQL Data Cleaning & Analysis 💡:
+- **1️⃣ Data Accuracy & Integrity** - Ensuring unique records improves reliability in reporting and decision-making. Standardizing formats (e.g., date formats, text case, currency values) enhances consistency across datasets.
 - **Improved Query Efficiency**: Understanding the impact of indexing and query structuring on performance.
 - **Real-World Use Cases**: Implementing SQL-based solutions for business analytics, sales performance, customer segmentation, and financial transactions.
   
