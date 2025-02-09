@@ -4,7 +4,7 @@
 This repository showcases **SQL-driven data cleaning and analysis** techniques applied to various datasets. The focus is on preparing raw, messy data for meaningful analysis by removing inconsistencies, handling missing values, and structuring data efficiently. Using SQL, I have performed data transformation, pattern identification, and business insights extraction to support data-driven decision-making.
 
 <div align="center">
-    <img src="https://media.licdn.com/dms/image/D4E12AQGasm2RHShsnA/article-cover_image-shrink_600_2000/0/1681097763151?e=2147483647&v=beta&t=7ssrfeCrpKZ1QVMgEt19SHAhVS0QBbLovWxSp-nm5sU" width="500px" height="300px">
+    <img src="https://media.licdn.com/dms/image/D5612AQEXV9OCIGo8IQ/article-cover_image-shrink_720_1280/0/1713966183454?e=2147483647&v=beta&t=iqhQQwTmmTuxAnzU8fz1DAckbUKjDqYubR_p5X3QdKA" width="500px" height="300px">
 </div> 
 
 ## Methodologies Used 🛠️:
