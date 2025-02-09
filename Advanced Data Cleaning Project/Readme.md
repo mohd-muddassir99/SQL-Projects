@@ -8,10 +8,12 @@ This repository showcases **SQL-driven data cleaning and analysis** techniques a
 </div> 
 
 ## Methodologies Used 🛠️:
-- **Database Creation & Management**: Designing schemas, defining relationships, and inserting sample data.
-- **Data Analysis Queries**: Using SQL Joins, Aggregate Functions, WHERE, GROUP BY, HAVING, and ORDER BY clauses.
-- **Pattern Recognition**: Identifying trends and insights through queries involving subqueries, CTEs, and window functions.
-- **Optimization Techniques**: Enhancing query performance through indexing, execution plans, and query restructuring.
+- **✔ Duplicate Handling** – Identified and removed redundant records for dataset accuracy.
+- **✔ Data Standardization** – Ensured consistency in format, casing, and structure.
+- **✔ Missing Values Treatment** – Replaced or analyzed NULL and blank values for completeness.
+- **✔ Column Optimization** – Dropped irrelevant columns to streamline datasets.
+- **✔ Data Cleaning & Formatting** – Applied best practices to prepare datasets for robust analysis.
+- **✔ Data Analysis with SQL** – Leveraged joins, subqueries, CTEs, and aggregate functions to extract insights.
 
 ## Potential Challenges⚡:
 - **Data Cleaning & Consistency**: Handling missing or duplicate data while maintaining data integrity.
