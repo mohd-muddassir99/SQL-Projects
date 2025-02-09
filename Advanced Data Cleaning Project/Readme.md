@@ -16,10 +16,9 @@ This repository showcases **SQL-driven data cleaning and analysis** techniques a
 - **✔ Data Analysis with SQL** – Leveraged joins, subqueries, CTEs, and aggregate functions to extract insights.
 
 ## Potential Challenges⚡:
-- **Data Cleaning & Consistency**: Handling missing or duplicate data while maintaining data integrity.
-- **Complex Query Optimization**: Balancing performance while dealing with large datasets and multiple joins.
-- **Understanding Business Context**: Translating raw data into meaningful insights that drive decision-making.
-
+- **🔹 Handling Incomplete Data** – Ensuring missing values do not impact analysis accuracy.
+- **🔹 Maintaining Performance** – Query optimization for efficient data retrieval.
+- **🔹 Data Structure Variability** – Adjusting transformations based on dataset-specific inconsistencies.
 ## Key Insights 💡:
 - **Data-driven Decision Making**: Extracting valuable trends and KPIs using SQL queries.
 - **Improved Query Efficiency**: Understanding the impact of indexing and query structuring on performance.
