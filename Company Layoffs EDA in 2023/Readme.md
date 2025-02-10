@@ -6,7 +6,7 @@ This repository contains an **Exploratory Data Analysis (EDA) of Layoffs data** 
 Through this analysis, I explored **statistical summaries, running totals, rankings, and company earnings**, providing a data-driven perspective on employment trends and economic shifts.
 
 <div align="center">
-    <img src="https://media.licdn.com/dms/image/D5612AQEXV9OCIGo8IQ/article-cover_image-shrink_720_1280/0/1713966183454?e=2147483647&v=beta&t=iqhQQwTmmTuxAnzU8fz1DAckbUKjDqYubR_p5X3QdKA" width="500px" height="300px">
+    <img src="https://miro.medium.com/v2/resize:fit:1200/1*406RtopU0joeflBz5pKb_w.png" width="500px" height="300px">
 </div> 
 
 ## Methodologies Used 🛠️:
