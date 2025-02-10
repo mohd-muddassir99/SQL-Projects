@@ -4,18 +4,18 @@
 This repository contains an **Exploratory Data Analysis (EDA) of Layoffs data** using **SQL**, where I have **examined workforce trends, industry impacts, and company-specific layoffs**. By leveraging SQL queries and analytical techniques, I extracted key insights on layoffs across various industries, years, and companies.
 
 Through this analysis, I explored **statistical summaries, running totals, rankings, and company earnings**, providing a data-driven perspective on employment trends and economic shifts.
+
 <div align="center">
     <img src="https://media.licdn.com/dms/image/D5612AQEXV9OCIGo8IQ/article-cover_image-shrink_720_1280/0/1713966183454?e=2147483647&v=beta&t=iqhQQwTmmTuxAnzU8fz1DAckbUKjDqYubR_p5X3QdKA" width="500px" height="300px">
 </div> 
 
 ## Methodologies Used 🛠️:
-- **✔ Duplicate Handling** – Identified and removed redundant records for dataset accuracy.
-- **✔ Data Standardization** – Ensured consistency in format, casing, and structure.
-- **✔ Missing Values Treatment** – Replaced or analyzed NULL and blank values for completeness.
-- **✔ Column Optimization** – Dropped irrelevant columns to streamline datasets.
-- **✔ Data Cleaning & Formatting** – Applied best practices to prepare datasets for robust analysis.
-- **✔ Data Analysis with SQL** – Leveraged joins, subqueries, CTEs, and aggregate functions to extract insights.
-
+- ✔ **Statistical Summary** – Generated key metrics to understand data distribution.
+- **✔ Industry-Wise Analysis** – Examined layoffs and earnings across different sectors.
+- **✔ Company & Year-Wise Breakdown** – Analyzed how layoffs varied by company and year.
+- **✔ Running Total Calculation** – Tracked cumulative layoffs over time using window functions.
+- **✔ Company-Wise Layoff Trends** – Identified top-affected companies and their layoff patterns.
+- **✔ Ranking Using Window Functions** – Determined highest layoffs per company using RANK(), DENSE_RANK().
 ## Potential Challenges⚡:
 - **🔹 Handling Incomplete Data** – Ensuring missing values do not impact analysis accuracy.
 - **🔹 Maintaining Performance** – Query optimization for efficient data retrieval.
