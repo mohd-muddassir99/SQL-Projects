@@ -16,10 +16,13 @@ Through this analysis, I explored **statistical summaries, running totals, ranki
 - **✔ Running Total Calculation** – Tracked cumulative layoffs over time using window functions.
 - **✔ Company-Wise Layoff Trends** – Identified top-affected companies and their layoff patterns.
 - **✔ Ranking Using Window Functions** – Determined highest layoffs per company using RANK(), DENSE_RANK().
+
 ## Potential Challenges⚡:
-- **🔹 Handling Incomplete Data** – Ensuring missing values do not impact analysis accuracy.
-- **🔹 Maintaining Performance** – Query optimization for efficient data retrieval.
-- **🔹 Data Structure Variability** – Adjusting transformations based on dataset-specific inconsistencies.
+- **Handling Missing & Inconsistent Data** – Ensuring data accuracy for meaningful insights.
+- **Performance Optimization** – Optimizing queries for large datasets with millions of records.
+- **Complexity in Time-Series Analysis** – Efficiently calculating running totals and trends over time.
+- **Normalization & Standardization** – Ensuring uniform data formats across different companies and years.
+
 
 ## Key Insights from SQL Data Cleaning & Analysis 💡:
 - **1️⃣ Data Accuracy & Integrity**:- Ensuring unique records improves reliability in reporting and decision-making. Standardizing formats (e.g., date formats, text case, currency values) enhances consistency across datasets.
