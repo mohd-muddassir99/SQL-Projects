@@ -18,10 +18,10 @@ By analyzing sales data, population estimates, and rental costs, I derived meani
 - **Comparative Analysis (Sales vs Rent)** – Correlated customer spending with average rental expenses.
 
 ## Potential Challenges⚡:
-- **Handling Missing & Inconsistent Data** – Ensuring data accuracy for meaningful insights.
-- **Performance Optimization** – Optimizing queries for large datasets with millions of records.
-- **Complexity in Time-Series Analysis** – Efficiently calculating running totals and trends over time.
-- **Normalization & Standardization** – Ensuring uniform data formats across different companies and years.
+- **Estimating Consumer Demand** – Approximate coffee consumption patterns based on city demographics.
+- **Data Consistency Issues** – Ensuring uniform date formats, transaction records, and customer IDs.
+- **Handling Growth Rate Calculations** – Computing percentage change in sales over different months.
+- **Multi-Dimensional Data Analysis** – Balancing sales, rent, and population data to derive meaningful insights.
 
 
 ## Key Insights from SQL Data Cleaning & Analysis 💡:
