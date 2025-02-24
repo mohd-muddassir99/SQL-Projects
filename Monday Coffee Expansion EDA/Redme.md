@@ -24,12 +24,12 @@ By analyzing sales data, population estimates, and rental costs, I derived meani
 - **Multi-Dimensional Data Analysis** – Balancing sales, rent, and population data to derive meaningful insights.
 
 
-## Key Insights from SQL Data Cleaning & Analysis 💡:
-- **Layoffs Vary Significantly Across Industries** – Some sectors faced heavier workforce reductions than others.
-- **Economic Trends & Company Earnings Impact Layoffs** – Companies with lower earnings often resorted to layoffs.
-- **Peak Layoff Periods Identified** – Certain months and years had higher layoffs due to economic downturns.
-- **Top Companies with the Highest Layoffs** – Identified using ranking techniques in SQL.
-- **Running Totals Show Growth in Layoffs Over Time** – Tracking monthly layoffs revealed long-term trends.
+## Key Insights💡:
+- **High Coffee Demand in Populated Cities** – More consumers drive higher sales, but competition also increases.
+- **Top Products by Region** – Certain coffee products perform better in specific cities, indicating local preferences.
+- **Revenue vs. Cost Dynamics** – High-rent cities may not always be the most profitable for coffee businesses.
+- **Sales Seasonality** – Monthly sales trends reveal peak and off-peak periods for coffee consumption.
+- **Market Potential Identified** – The top three cities with the highest sales offer strong expansion opportunities.
 
 ## 🎯 Recommendations & Future Scope
 - **Deeper Financial Analysis** – Correlate layoffs with company revenue, stock performance, and funding status.
