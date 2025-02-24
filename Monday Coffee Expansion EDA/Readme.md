@@ -57,7 +57,7 @@ Feel free to dive into the queries, share feedback, and collaborate on enhancing
 ## View & Download (MySQL) File:
 
 <p align="center">
-    <a href="https://github.com/mohd-muddassir99/SQL-Projects/blob/1a481fff44e1643443447b67dc2e14ee888494ed/Company%20Layoffs%20EDA%20in%202023/Exploratory%20Data%20Analysis%20-%20Layoffs%20Data.sql">
+    <a href="https://github.com/mohd-muddassir99/SQL-Projects/blob/cb79936e5d499cc41cd9fd1c84e12707bbe1a21b/Monday%20Coffee%20Expansion%20EDA/Monday%20Coffee%20DA%20Project.sql">
         <img src="https://miro.medium.com/v2/resize:fit:900/0*hM4PQP9yoePYv-RB.png" width="70px" height="90px" alt="Access Dataset"><br>
         View
     </a>
