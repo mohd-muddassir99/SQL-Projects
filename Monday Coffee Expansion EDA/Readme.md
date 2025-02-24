@@ -8,6 +8,9 @@ By analyzing sales data, population estimates, and rental costs, I derived meani
     <img src="https://github.com/mohd-muddassir99/SQL-Projects/blob/44c2c4e34d4de1db23d532890abd45c80eace592/Monday%20Coffee%20Expansion%20EDA/1.png" width="600px" height="400px">
 </div> 
 
+## Objective :
+
+
 ## Methodologies Used 🛠️:
 - **Coffee Consumer Estimation** – Determined the number of coffee drinkers per city based on population.
 - **Revenue Analysis** – Computed total and average sales revenue for different time periods.
