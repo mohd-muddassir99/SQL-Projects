@@ -32,6 +32,24 @@ By analyzing sales data, population estimates, and rental costs, I derived meani
 - **Market Potential Identified** – The top three cities with the highest sales offer strong expansion opportunities.
 
 ## 🎯 Recommendations & Future Scope
+After analyzing the data, the recommended top three cities for new store openings are:
+
+### City 1: Pune
+
+1. Average rent per customer is very low.
+2. Highest total revenue.
+3. Average sales per customer is also high.
+City 2: Delhi
+
+Highest estimated coffee consumers at 7.7 million.
+Highest total number of customers, which is 68.
+Average rent per customer is 330 (still under 500).
+City 3: Jaipur
+
+Highest number of customers, which is 69.
+Average rent per customer is very low at 156.
+Average sales per customer is better at 11.6k.
+
 - **Deeper Financial Analysis** – Correlate layoffs with company revenue, stock performance, and funding status.
 - **Predictive Modeling** – Use SQL analysis as a foundation for machine learning-driven layoff predictions.
 - **Visualization Integration** – Connect results with Power BI or Tableau for interactive dashboards.
