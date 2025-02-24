@@ -49,12 +49,7 @@ After analyzing the data, the recommended top three cities for new store opening
 2. Average rent per customer is very low at 156.
 3. Average sales per customer is better at 11.6k.
 
-- **Deeper Financial Analysis** – Correlate layoffs with company revenue, stock performance, and funding status.
-- **Predictive Modeling** – Use SQL analysis as a foundation for machine learning-driven layoff predictions.
-- **Visualization Integration** – Connect results with Power BI or Tableau for interactive dashboards.
-- **Further Industry Breakdown** – Analyze layoffs based on company size, geography, and business model.
-
-Feel free to explore the repository, suggest improvements, or collaborate on future data analysis projects! 🚀
+Feel free to dive into the queries, share feedback, and collaborate on enhancing this **SQL-driven coffee sales analysis!** 🚀
 
 ## View & Download (MySQL) File:
 
