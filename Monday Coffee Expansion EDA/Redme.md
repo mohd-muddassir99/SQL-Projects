@@ -11,11 +11,11 @@ By analyzing sales data, population estimates, and rental costs, I derived meani
 ## Methodologies Used 🛠️:
 - **Coffee Consumer Estimation** – Determined the number of coffee drinkers per city based on population.
 - **Revenue Analysis** – Computed total and average sales revenue for different time periods.
-✔ Product Performance Analysis – Evaluated sales volume per coffee product.
-✔ Customer Segmentation – Identified unique buyers per city for targeted marketing.
-✔ Sales Growth Trends – Measured monthly sales growth rate to track performance.
-✔ Market Potential Analysis – Ranked top cities based on total sales, rental costs, and customer base.
-✔ Comparative Analysis (Sales vs Rent) – Correlated customer spending with average rental expenses.
+- **Product Performance Analysis** – Evaluated sales volume per coffee product.
+- **Customer Segmentation** – Identified unique buyers per city for targeted marketing.
+- **Sales Growth Trends** – Measured monthly sales growth rate to track performance.
+- **Market Potential Analysis** – Ranked top cities based on total sales, rental costs, and customer base.
+- **Comparative Analysis (Sales vs Rent)** – Correlated customer spending with average rental expenses.
 
 ## Potential Challenges⚡:
 - **Handling Missing & Inconsistent Data** – Ensuring data accuracy for meaningful insights.
