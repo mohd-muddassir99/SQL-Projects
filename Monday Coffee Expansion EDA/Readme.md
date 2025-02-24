@@ -5,7 +5,7 @@ This repository contains an **Exploratory Data Analysis (EDA)** of **Coffee Sale
 
 By analyzing sales data, population estimates, and rental costs, I derived meaningful insights into customer segmentation, revenue patterns, and growth trends. The goal is to understand demand, optimize sales strategies, and evaluate market opportunities using data-driven decision-making.
 <div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1200/1*406RtopU0joeflBz5pKb_w.png" width="500px" height="300px">
+    <img src="https://github.com/mohd-muddassir99/SQL-Projects/blob/44c2c4e34d4de1db23d532890abd45c80eace592/Monday%20Coffee%20Expansion%20EDA/1.png" width="600px" height="400px">
 </div> 
 
 ## Methodologies Used 🛠️:
