@@ -21,7 +21,7 @@ Please find the links for the Project's. Simply click on the links to access eac
 - **Database Design & Management (Indexes, Partitioning, Normalization)**.
 - **Performance Tuning (Execution Plans, Query Optimization, Indexing)**.
 - **Real-World Use Cases (Financial Transactions, E-commerce Sales, User Behavior Analysis)**.
-- **✅ Integrations with Power BI & Tableau for Data Visualization**.
+- **Integrations with Power BI & Tableau for Data Visualization**.
 
 💡 Let’s Connect!!
 If you have any suggestions or want to collaborate on SQL projects, feel free to reach out! 🚀
