@@ -20,7 +20,7 @@ Please find the links for the Project's. Simply click on the links to access eac
 - **SQL Queries & Scripts (Joins, CTEs, Window Functions, Optimization)**.
 - **Database Design & Management (Indexes, Partitioning, Normalization)**.
 - **Performance Tuning (Execution Plans, Query Optimization, Indexing)**.
-- **✅ Real-World Use Cases (Financial Transactions, E-commerce Sales, User Behavior Analysis)**.
+- **Real-World Use Cases (Financial Transactions, E-commerce Sales, User Behavior Analysis)**.
 - **✅ Integrations with Power BI & Tableau for Data Visualization**.
 
 💡 Let’s Connect!!
