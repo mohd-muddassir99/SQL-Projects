@@ -17,7 +17,7 @@ Please find the links for the Project's. Simply click on the links to access eac
 - [Monday Coffee Expansion EDA](https://github.com/mohd-muddassir99/SQL-Projects/tree/51bf0f090519b3cd59668f2f96fe6f630bed3296/Monday%20Coffee%20Expansion%20EDA)
 
 ## 🔍 What You’ll Find Here:  
-- **✅ SQL Queries & Scripts (Joins, CTEs, Window Functions, Optimization)**.
+- **SQL Queries & Scripts (Joins, CTEs, Window Functions, Optimization)**.
 - **✅ Database Design & Management (Indexes, Partitioning, Normalization)**.
 - **✅ Performance Tuning (Execution Plans, Query Optimization, Indexing)**.
 - **✅ Real-World Use Cases (Financial Transactions, E-commerce Sales, User Behavior Analysis)**.
