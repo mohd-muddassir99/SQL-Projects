@@ -12,6 +12,9 @@ This repository contains a collection of **SQL-based projects** where I have **e
 
 Please find the links for the Project's. Simply click on the links to access each Project.
 - [10 General Data Analysis Question](https://github.com/mohd-muddassir99/SQL-Projects/tree/51bf0f090519b3cd59668f2f96fe6f630bed3296/10%20General%20Data%20Analysis%20Question)
+- [Advanced Data Cleaning Project - Company Layoff's Data ](https://github.com/mohd-muddassir99/SQL-Projects/tree/51bf0f090519b3cd59668f2f96fe6f630bed3296/Company%20Layoffs%20EDA%20in%202023)
+- [Company Layoffs EDA in 2023](https://github.com/mohd-muddassir99/SQL-Projects/tree/51bf0f090519b3cd59668f2f96fe6f630bed3296/Company%20Layoffs%20EDA%20in%202023)
+- [Monday Coffee Expansion EDA](https://github.com/mohd-muddassir99/SQL-Projects/tree/51bf0f090519b3cd59668f2f96fe6f630bed3296/Monday%20Coffee%20Expansion%20EDA)
 
 ## 🔍 What You’ll Find Here:  
 - **✅ SQL Queries & Scripts (Joins, CTEs, Window Functions, Optimization)**.
