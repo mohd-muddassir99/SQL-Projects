@@ -11,8 +11,7 @@ This repository contains a collection of **SQL-based projects** where I have **e
 ## 📚 Table of Contents
 
 Please find the links for the Project's. Simply click on the links to access each Project.
-- [Exploratory Data Analysis of  Diwali Sales](https://github.com/mohd-muddassir99/Python-Data-Analysis-Projects/tree/a26fda6a84fb61b85e4ad58ddb2d649890858659/Exploratory%20Data%20Analysis%20of%20%20Diwali%20Sales)
-- [Airbnb EDA Project](https://github.com/mohd-muddassir99/Python-Data-Analysis-Projects/tree/a26fda6a84fb61b85e4ad58ddb2d649890858659/Airbnb%20EDA%20Project)
+- [10 General Data Analysis Question](https://github.com/mohd-muddassir99/SQL-Projects/tree/51bf0f090519b3cd59668f2f96fe6f630bed3296/10%20General%20Data%20Analysis%20Question)
 
 ## 🔍 What You’ll Find Here:  
 - **✅ SQL Queries & Scripts (Joins, CTEs, Window Functions, Optimization)**.
