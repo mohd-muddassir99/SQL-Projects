@@ -36,7 +36,7 @@ Dive into the SQL queries, gain insights into store inventory and sales, and fee
 ## View & Download (MySQL) File:
 
 <p align="center">
-    <a href="https://github.com/mohd-muddassir99/SQL-Projects/blob/cb79936e5d499cc41cd9fd1c84e12707bbe1a21b/Monday%20Coffee%20Expansion%20EDA/Monday%20Coffee%20DA%20Project.sql">
+    <a href="https://github.com/mohd-muddassir99/SQL-Projects/tree/ef0404abdfd67ae8a849241e786a11d40aabd27e/Inventory%20%26%20Sales%20Analysis/SQL%20FILES%20OF%20PROJECT">
         <img src="https://miro.medium.com/v2/resize:fit:900/0*hM4PQP9yoePYv-RB.png" width="70px" height="90px" alt="Access Dataset"><br>
         View
     </a>
