@@ -31,25 +31,7 @@ By leveraging SQL techniques, including multiple joins, nested queries, and data
 - **Profitability by Product Category** – Analyzed gross revenue and profit margins across categories.
 - **Impact of Customer Behavior on Sales** – Mapped repeat purchases and preferred product categories.
 
-## 🎯 Recommendations & Future Scope
-After analyzing the data, the recommended top three cities for new store openings are:
-
-### City 1: Pune
-1. Average rent per customer is very low.
-2. Highest total revenue.
-3. Average sales per customer is also high.
-
-### City 2: Delhi
-1. Highest estimated coffee consumers at 7.7 million.
-2. Highest total number of customers, which is 68.
-3. Average rent per customer is 330 (still under 500).
-   
-### City 3: Jaipur
-1. Highest number of customers, which is 69.
-2. Average rent per customer is very low at 156.
-3. Average sales per customer is better at 11.6k.
-
-Feel free to dive into the queries, share feedback, and collaborate on enhancing this **SQL-driven coffee sales analysis!** 🚀
+Dive into the SQL queries, gain insights into store inventory and sales, and feel free to collaborate! 🚀
 
 ## View & Download (MySQL) File:
 
