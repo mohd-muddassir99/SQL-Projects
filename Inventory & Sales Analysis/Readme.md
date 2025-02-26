@@ -25,11 +25,11 @@ By leveraging SQL techniques, including multiple joins, nested queries, and data
 - **Stock vs. Demand Correlation** – Identifying patterns between inventory levels and customer demand.
 
 ## Key Insights💡:
-- **High Coffee Demand in Populated Cities** – More consumers drive higher sales, but competition also increases.
-- **Top Products by Region** – Certain coffee products perform better in specific cities, indicating local preferences.
-- **Revenue vs. Cost Dynamics** – High-rent cities may not always be the most profitable for coffee businesses.
-- **Sales Seasonality** – Monthly sales trends reveal peak and off-peak periods for coffee consumption.
-- **Market Potential Identified** – The top three cities with the highest sales offer strong expansion opportunities.
+- **Best-Selling & Low-Performing Products** – Found products with the highest and lowest demand.
+- **Stock Management Challenges** – Identified items at risk of overstocking or running out-of-stock.
+- **Seasonal Sales Trends** – Observed peak sales periods based on historical transaction data.
+- **Profitability by Product Category** – Analyzed gross revenue and profit margins across categories.
+- **Impact of Customer Behavior on Sales** – Mapped repeat purchases and preferred product categories.
 
 ## 🎯 Recommendations & Future Scope
 After analyzing the data, the recommended top three cities for new store openings are:
