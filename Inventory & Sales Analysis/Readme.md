@@ -10,17 +10,13 @@ By leveraging SQL techniques, including multiple joins, nested queries, and data
     <img src="https://projectsbasedlearning.com/wp-content/uploads/2023/09/www.projectsbasedlearning.com-1-800x500.png" width="600px" height="400px">
 </div> 
 
-## Objective 🚀:
-The business aims to expand by opening three coffee shops in India's top three major cities. Since its launch in January 2023, the company has successfully sold its products online and received an overwhelmingly positive response in several cities. As a data analyst, your task is to analyze the sales data and provide insights to recommend the top three cities for this expansion.
-
 ## Methodologies Used 🛠️:
-- **Coffee Consumer Estimation** – Determined the number of coffee drinkers per city based on population.
-- **Revenue Analysis** – Computed total and average sales revenue for different time periods.
-- **Product Performance Analysis** – Evaluated sales volume per coffee product.
-- **Customer Segmentation** – Identified unique buyers per city for targeted marketing.
-- **Sales Growth Trends** – Measured monthly sales growth rate to track performance.
-- **Market Potential Analysis** – Ranked top cities based on total sales, rental costs, and customer base.
-- **Comparative Analysis (Sales vs Rent)** – Correlated customer spending with average rental expenses.
+- **Multi-Table Querying** – Combined 3-4 tables in single queries to derive meaningful insights.
+- **Advanced SQL Joins** – Used LEFT, RIGHT, INNER, FULL, SELF, and NON-EQUI JOIN to analyze data.
+- **Inventory Analysis** – Assessed stock availability, turnover rate, and replenishment needs.
+- **Sales Performance Tracking** – Identified top-selling products, seasonal trends, and revenue drivers.
+- **Customer Purchase Behavior** – Mapped customer preferences through sales history.
+- **Pricing & Profitability Analysis** – Evaluated profit margins across different products.
 
 ## Potential Challenges⚡:
 - **Estimating Consumer Demand** – Approximate coffee consumption patterns based on city demographics.
