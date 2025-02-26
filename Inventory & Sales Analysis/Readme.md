@@ -19,11 +19,10 @@ By leveraging SQL techniques, including multiple joins, nested queries, and data
 - **Pricing & Profitability Analysis** – Evaluated profit margins across different products.
 
 ## Potential Challenges⚡:
-- **Estimating Consumer Demand** – Approximate coffee consumption patterns based on city demographics.
-- **Data Consistency Issues** – Ensuring uniform date formats, transaction records, and customer IDs.
-- **Handling Growth Rate Calculations** – Computing percentage change in sales over different months.
-- **Multi-Dimensional Data Analysis** – Balancing sales, rent, and population data to derive meaningful insights.
-
+- **Handling Complex Joins** – Efficiently managing queries with multiple joins across large datasets.
+- **Data Normalization Issues** – Ensuring proper relationships between inventory, sales, and customers.
+- **Performance Optimization** – Improving execution time of nested queries and self-joins.
+- **Stock vs. Demand Correlation** – Identifying patterns between inventory levels and customer demand.
 
 ## Key Insights💡:
 - **High Coffee Demand in Populated Cities** – More consumers drive higher sales, but competition also increases.
