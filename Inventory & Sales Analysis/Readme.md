@@ -1,13 +1,13 @@
 # 🏪 Store Inventory & Sales Analysis - SQL Case Study
 
 ## Introduction📌: 
-This repository presents a comprehensive SQL-driven analysis of a store’s inventory and sales data, focusing on multi-table queries, advanced joins, and complex data relationships.
+This repository presents a comprehensive SQL-driven analysis of a store’s **inventory and sales data**, focusing on **multi-table queries, advanced joins, and complex data relationships**.
 
 By leveraging SQL techniques, including multiple joins, nested queries, and data transformations, I extracted key business insights on stock levels, sales trends, product performance, and revenue analysis. The project showcases real-world inventory management strategies using SQL.
 
 
 <div align="center">
-    <img src="https://github.com/mohd-muddassir99/SQL-Projects/blob/44c2c4e34d4de1db23d532890abd45c80eace592/Monday%20Coffee%20Expansion%20EDA/1.png" width="600px" height="400px">
+    <img src="https://projectsbasedlearning.com/wp-content/uploads/2023/09/www.projectsbasedlearning.com-1-800x500.png" width="600px" height="400px">
 </div> 
 
 ## Objective 🚀:
