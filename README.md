@@ -1,4 +1,4 @@
-# 📊 SQL Data & Analysis Projects
+# 📊 SQLata & Analysis Projects
 
 Welcome to my SQL Data & Analysis Projects repository! 🚀
 
