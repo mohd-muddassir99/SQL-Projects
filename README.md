@@ -3,7 +3,7 @@
 
 Welcome to my SQL Data & Analysis Projects repository🚀
 
-This repository contains a collection of **SQL-based projects** where I have **explored, analyzed, and optimized datasets using SQL Server** & **MySQL**. Each project includes data cleaning, transformations, querying, performance optimization,and visualization integration with Power BI and Tableau for deeper insights.
+This repository contains a collection of **SQL-based projects** where I have **explored, analyzed, and optimized datasets using SQL Server** & **MySQL**. Each project includes data cleaning, transformations, querying, performance optimization, and visualization integration with Power BI and Tableau for deeper insights.
 
 <div align="center">
     <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230829132035/Top-10-SQL-Projects-For-Data-Analysis.png" width="900px" height="400px">
