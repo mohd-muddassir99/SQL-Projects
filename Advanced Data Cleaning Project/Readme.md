@@ -39,7 +39,7 @@ This repository showcases **SQL-driven data cleaning and analysis** techniques a
     </a>
 </p> <br>
 
-Click to move for the next EDA process : [Company Layoffs EDA in 2023](https://github.com/mohd-muddassir99/SQL-Projects/tree/1d82370e45bcbf38feac3d2842c8b7389b19daa1/Company%20Layoffs%20EDA%20in%202023)
+Click to move to the next EDA process : [Company Layoffs EDA in 2023 🔗](https://github.com/mohd-muddassir99/SQL-Projects/tree/1d82370e45bcbf38feac3d2842c8b7389b19daa1/Company%20Layoffs%20EDA%20in%202023)
 ---
 
 <div align="center">
