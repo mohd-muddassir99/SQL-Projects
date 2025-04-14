@@ -1,4 +1,4 @@
-# 🏆 SQL Data Cleaning & Analysis
+# 🏆 Company Layoffs 2023 Cleaning & Exploratory Data Analysis
 
 ## Introduction📌: 
 This repository contains an **Exploratory Data Analysis (EDA) of Layoffs data** using **SQL**, where I have **examined workforce trends, industry impacts, and company-specific layoffs**. By leveraging SQL queries and analytical techniques, I extracted key insights on layoffs across various industries, years, and companies.
