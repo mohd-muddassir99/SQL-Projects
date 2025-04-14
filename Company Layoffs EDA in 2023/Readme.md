@@ -43,7 +43,7 @@ Feel free to explore the repository, suggest improvements, or collaborate on fut
 
 <p align="center">
     <a href="https://github.com/mohd-muddassir99/SQL-Projects/blob/1a481fff44e1643443447b67dc2e14ee888494ed/Company%20Layoffs%20EDA%20in%202023/Exploratory%20Data%20Analysis%20-%20Layoffs%20Data.sql">
-        <img src="https://miro.medium.com/v2/resize:fit:900/0*hM4PQP9yoePYv-RB.png" width="70px" height="90px" alt="Access Dataset"><br>
+        <img src="https://miro.medium.com/v2/resize:fit:900/0*hM4PQP9yoePYv-RB.png" width="80px" height="80px" alt="Access Dataset"><br>
         View
     </a>
 </p> <br>
