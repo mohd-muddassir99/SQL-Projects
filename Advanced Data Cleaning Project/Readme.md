@@ -34,7 +34,7 @@ This repository showcases **SQL-driven data cleaning and analysis** techniques a
 
 <p align="center">
     <a href="https://github.com/mohd-muddassir99/SQL-Projects/blob/ea09ebc644f104a961281e207b75f3af42c2bb4b/Advanced%20Data%20Cleaning%20Project/Data%20Cleaning%20of%20Layoffs.sql">
-        <img src="https://miro.medium.com/v2/resize:fit:900/0*hM4PQP9yoePYv-RB.png" width="70px" height="90px" alt="Access Dataset"><br>
+        <img src="https://miro.medium.com/v2/resize:fit:900/0*hM4PQP9yoePYv-RB.png" width="70px" height="80px" alt="Access Dataset"><br>
         View
     </a>
 </p> <br>
